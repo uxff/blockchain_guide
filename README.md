@@ -36,7 +36,7 @@
 
 欢迎鼓励项目一杯 coffee~
 
-![coffee](_images/coffee.jpeg)
+![coffee](_images/coffee.jpg)
 
 ## 技术交流
 
